@@ -103,5 +103,4 @@ Set the following environment variables (or use `.env`):
 | `DATABASE_URL` | Database connection string | Yes | - |
 | `LOG_LEVEL` | Logging verbosity | No | `INFO` |
 
----
-**Setup Used: Gemini CLI**# Lyftr-AI-
+
